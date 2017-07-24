@@ -1,0 +1,29 @@
+center{
+	height: 350px;
+}
+
+.input{
+	position: relative;
+	left: -80px;
+	width: 700px;
+}
+
+.url_input_label{
+	opacity: 0;
+}
+
+.result_message{
+	opacity: 0;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+.online{
+	color: green;
+	text-decoration: bold;
+}
+
+.offline{
+	color: red;
+	text-decoration: bold;
+}
